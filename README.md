@@ -5,10 +5,10 @@ lobby-arcade
 
 ## Examples
 
-* [tetra](https://github.com/RewisServer/tetra)
-* [snake](https://github.com/RewisServer/snake)
-* [invaders](https://github.com/RewisServer/invaders)
-* [rhythm-hero](https://github.com/RewisServer/rhythm-hero)
+* [tetra](https://github.com/RewisServer/lobby-arcade-tetra)
+* [snake](https://github.com/RewisServer/lobby-arcade-snake)
+* [invaders](https://github.com/RewisServer/lobby-arcade-invaders)
+* [rhythm-hero](https://github.com/RewisServer/lobby-arcade-rhythm-hero)
 
 ## Standalone
 
