@@ -1,6 +1,8 @@
 lobby-arcade
 ============
 
+**Note**: This repository does not contain the proprietary Minecraft implementation.
+
 ## Standalone
 
 ![](.gitlab/assets/standalone.png)
