@@ -1,5 +1,5 @@
-frames-game-library
-===================
+lobby-arcade
+============
 
 ## Standalone
 
