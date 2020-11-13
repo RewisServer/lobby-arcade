@@ -3,6 +3,13 @@ lobby-arcade
 
 **Note**: This repository does not contain the proprietary Minecraft implementation.
 
+## Examples
+
+* [tetra](https://github.com/RewisServer/tetra)
+* [snake](https://github.com/RewisServer/snake)
+* [invaders](https://github.com/RewisServer/invaders)
+* [rhythm-hero](https://github.com/RewisServer/rhythm-hero)
+
 ## Standalone
 
 ![](.gitlab/assets/standalone.png)
